@@ -1,6 +1,6 @@
 # SwiftUI Landmarks App
 
-![App Screenshot](screenshot.jpeg)
+<a href="url"><img src="screenshot.jpeg" align="left" height="400" ></a>
 
 The SwiftUI Landmarks app is a sample iOS application built using SwiftUI framework to showcase some iconic landmarks. It allows users to explore various landmarks, view their details, and mark them as favorites.
 
