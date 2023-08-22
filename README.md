@@ -11,6 +11,7 @@ The SwiftUI Landmarks app is a sample iOS application built using SwiftUI framew
 - Mark landmarks as favorites and access them easily.
 - Filter landmarks by category or location.
 - Dark mode support for enhanced user experience.
+- Split pane view
 
 ## Requirements
 
